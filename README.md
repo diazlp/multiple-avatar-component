@@ -1,3 +1,11 @@
+# Multiple Avatar Component
+
+This project is build using Tailwind and DaisyUI library
+
+## Integration & Unit Testing Result
+
+![test-result](testAll-result.JPG)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
