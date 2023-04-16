@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Avatar Component Testing matches component snapshot 1`] = `
+<div
+  class="avatar bg-gray-500 w-12 h-12 text-base flex items-center justify-center"
+  data-testid="avatar"
+>
+  <span
+    class="text-white font-bold"
+  >
+    JD
+  </span>
+</div>
+`;

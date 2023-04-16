@@ -1,0 +1,109 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AvatarGroup Component Testing matches component snapshot 1`] = `
+<div
+  class="avatar-group flex flex-nowrap items-center -space-x-6"
+  data-testid="avatar-group"
+>
+  <div
+    class="avatar bg-gray-500 w-16 h-16 text-lg flex items-center justify-center"
+    data-testid="avatar-0"
+  >
+    <span
+      class="text-white font-bold"
+    >
+      TB
+    </span>
+  </div>
+  <div
+    class="avatar bg-gray-500 w-16 h-16 text-lg flex items-center justify-center"
+    data-testid="avatar-1"
+  >
+    <span
+      class="text-white font-bold"
+    >
+      DL
+    </span>
+  </div>
+  <div
+    class="avatar bg-gray-500 w-16 h-16 text-lg flex items-center justify-center"
+    data-testid="avatar-2"
+  >
+    <span
+      class="text-white font-bold"
+    >
+      JD
+    </span>
+  </div>
+  <div
+    class="avatar bg-gray-500 w-16 h-16 text-lg flex items-center justify-center"
+    data-testid="avatar-3"
+  >
+    <span
+      class="text-white font-bold"
+    >
+      JS
+    </span>
+  </div>
+  <div
+    class="avatar bg-gray-500 w-16 h-16 text-lg flex items-center justify-center"
+    data-testid="avatar-4"
+  >
+    <span
+      class="text-white font-bold"
+    >
+      JJ
+    </span>
+  </div>
+  <div
+    class="avatar bg-gray-500 w-16 h-16 text-lg flex items-center justify-center"
+    data-testid="avatar-5"
+  >
+    <span
+      class="text-white font-bold"
+    >
+      DL
+    </span>
+  </div>
+  <div
+    class="avatar bg-gray-500 w-16 h-16 text-lg flex items-center justify-center"
+    data-testid="avatar-6"
+  >
+    <span
+      class="text-white font-bold"
+    >
+      SB
+    </span>
+  </div>
+  <div
+    class="avatar bg-gray-500 w-16 h-16 text-lg flex items-center justify-center"
+    data-testid="avatar-7"
+  >
+    <span
+      class="text-white font-bold"
+    >
+      RB
+    </span>
+  </div>
+  <div
+    class="avatar bg-gray-500 w-16 h-16 text-lg flex items-center justify-center"
+    data-testid="avatar-8"
+  >
+    <span
+      class="text-white font-bold"
+    >
+      SL
+    </span>
+  </div>
+  <div
+    class="avatar bg-gray-500 w-16 h-16 text-lg flex items-center justify-center"
+    data-testid="avatar-hidden-count"
+  >
+    <span
+      class="text-white font-bold"
+    >
+      +1
+    </span>
+  </div>
+</div>
+`;
